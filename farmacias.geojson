@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-11-27T03:07:12Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/983637522",
+        "addr:city": "Alajuela",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Chavarría",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-17:00",
+        "phone": "24309280",
+        "source": "Sitio Oficial",
+        "website": "http://www.farmaciachavarria.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2079771,
+          10.009138
+        ]
+      },
+      "id": "node/983637522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1430282488",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida 10",
+        "amenity": "pharmacy",
+        "branch": "La Tropicana",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Santa Lucía",
+        "opening_hours": "Mo-Sa 08:30-20:30; Su off",
+        "phone": "24415991",
+        "source": "Sitio Oficial",
+        "website": "http://www.farmaciachavarria.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2075099,
+          10.012628
+        ]
+      },
+      "id": "node/1430282488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1996609943",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Antales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2505921,
+          10.0043216
+        ]
+      },
+      "id": "node/1996609943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2266555933",
+        "addr:city": "San José",
+        "amenity": "pharmacy",
+        "name": "Farmacia Fischel",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "phone": "2433-7500",
+        "source": "Sitio Oficial",
+        "website": "http://www.fischel.cr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2422567,
+          10.0127637
+        ]
+      },
+      "id": "node/2266555933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2266558449",
+        "addr:city": "Alajuela",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Fischel",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-17:00",
+        "phone": "+506 24431802",
+        "phone_1": "+506 8003472435",
+        "source": "Sitio Oficial",
+        "source_1": "survey",
+        "source_ref": "ECSL2017",
+        "website": "http://www.fischel.cr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2156433,
+          10.0163273
+        ]
+      },
+      "id": "node/2266558449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813321889",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Macrobiotica Mi Salud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2148146,
+          10.0175428
+        ]
+      },
+      "id": "node/3813321889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3818029178",
+        "amenity": "pharmacy",
+        "name": "Macrobiotica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2145446,
+          10.0185661
+        ]
+      },
+      "id": "node/3818029178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3819735364",
+        "amenity": "pharmacy",
+        "name": "Charpentier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2075993,
+          10.0185571
+        ]
+      },
+      "id": "node/3819735364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957033837",
+        "addr:city": "Río Segundo",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia El Cruce",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1763564,
+          10.0066475
+        ]
+      },
+      "id": "node/3957033837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3958749772",
+        "addr:city": "Alajuela",
+        "amenity": "pharmacy",
+        "branch": "San Isidro de Alajuela",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Santa Lucía",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2171236,
+          10.0252256
+        ]
+      },
+      "id": "node/3958749772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4550105825",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Sucre",
+        "phone": "+506 8003276224",
+        "source": "survey",
+        "source_ref": "ECSL2017",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.215523,
+          10.0163559
+        ]
+      },
+      "id": "node/4550105825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4550105829",
+        "amenity": "pharmacy",
+        "name": "San Miguel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2168542,
+          10.0171212
+        ]
+      },
+      "id": "node/4550105829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6985850484",
+        "amenity": "pharmacy",
+        "name": "Artemis",
+        "phone": "2309111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2116487,
+          10.0342705
+        ]
+      },
+      "id": "node/6985850484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8164970083",
+        "addr:city": "San Pedro",
+        "addr:street": "Carretera Marta Soto Jiménez",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia El Botiquín",
+        "opening_hours": "Mo-Sa 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1700774,
+          10.029726
+        ]
+      },
+      "id": "node/8164970083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849095",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Kielsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2114636,
+          10.0045835
+        ]
+      },
+      "id": "node/9018849095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9604494185",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia El Tejar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2226446,
+          9.9957102
+        ]
+      },
+      "id": "node/9604494185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9971210989",
+        "amenity": "pharmacy",
+        "branch": "Río Segundo",
+        "healthcare": "pharmacy",
+        "name": "FarmaValue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2076811,
+          10.0029853
+        ]
+      },
+      "id": "node/9971210989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10563793363",
+        "addr:city": "Alajuela",
+        "amenity": "pharmacy",
+        "contact:facebook": "https://www.facebook.com/farmavital506",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmavital",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "operator": "Farmavital",
+        "phone": "+506 63554545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2180788,
+          10.0146777
+        ]
+      },
+      "id": "node/10563793363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11180305750",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2059838,
+          10.0022712
+        ]
+      },
+      "id": "node/11180305750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11230131987",
+        "amenity": "pharmacy",
+        "branch": "Mercado de Alajuela",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Santa Lucía"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2155852,
+          10.0163474
+        ]
+      },
+      "id": "node/11230131987"
+    }
+  ]
+}

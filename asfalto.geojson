@@ -1,0 +1,1676 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-11-27T03:45:59Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/276049365",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2314993,
+          10.0128491
+        ]
+      },
+      "id": "node/276049365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/281870749",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1542802,
+          10.0055397
+        ]
+      },
+      "id": "node/281870749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/315291750",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2280076,
+          10.0130892
+        ]
+      },
+      "id": "node/315291750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/315294348",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2386881,
+          10.0082241
+        ]
+      },
+      "id": "node/315294348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/315294349",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.238564,
+          10.0078498
+        ]
+      },
+      "id": "node/315294349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/427874214",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2219219,
+          9.9974001
+        ]
+      },
+      "id": "node/427874214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/496245171",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.210766,
+          10.0103978
+        ]
+      },
+      "id": "node/496245171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/496593316",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2463543,
+          10.0148842
+        ]
+      },
+      "id": "node/496593316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/496593328",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2463961,
+          10.0124633
+        ]
+      },
+      "id": "node/496593328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/654162415",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2320103,
+          10.0321878
+        ]
+      },
+      "id": "node/654162415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/896430441",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1295686,
+          9.992626
+        ]
+      },
+      "id": "node/896430441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1399152827",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2104214,
+          10.0689951
+        ]
+      },
+      "id": "node/1399152827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1835642300",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1582417,
+          10.0094283
+        ]
+      },
+      "id": "node/1835642300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1835644524",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1627636,
+          10.0085218
+        ]
+      },
+      "id": "node/1835644524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1837882172",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2338888,
+          10.0024147
+        ]
+      },
+      "id": "node/1837882172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1837882254",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2335011,
+          10.0043404
+        ]
+      },
+      "id": "node/1837882254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2223351600",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2203915,
+          10.0071203
+        ]
+      },
+      "id": "node/2223351600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2358174212",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2457137,
+          10.0761569
+        ]
+      },
+      "id": "node/2358174212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2358218791",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2286461,
+          10.033719
+        ]
+      },
+      "id": "node/2358218791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2358218792",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.228961,
+          10.0342218
+        ]
+      },
+      "id": "node/2358218792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3224387339",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2242771,
+          10.0657945
+        ]
+      },
+      "id": "node/3224387339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3331313481",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2103814,
+          10.0027434
+        ]
+      },
+      "id": "node/3331313481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3688458335",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2300731,
+          10.0129637
+        ]
+      },
+      "id": "node/3688458335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3939999878",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2462453,
+          10.0131712
+        ]
+      },
+      "id": "node/3939999878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3952100291",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2079961,
+          10.0125062
+        ]
+      },
+      "id": "node/3952100291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4950242412",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.210545,
+          10.0781853
+        ]
+      },
+      "id": "node/4950242412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4954251588",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2087502,
+          10.0083204
+        ]
+      },
+      "id": "node/4954251588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5438318250",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2243123,
+          10.0106908
+        ]
+      },
+      "id": "node/5438318250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5555411446",
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Estación de servicio Santa Bárbara",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1609386,
+          10.0358825
+        ]
+      },
+      "id": "node/5555411446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5780401956",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2367383,
+          10.0100577
+        ]
+      },
+      "id": "node/5780401956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6196699916",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1261746,
+          9.9997832
+        ]
+      },
+      "id": "node/6196699916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6348370906",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2229291,
+          10.0115357
+        ]
+      },
+      "id": "node/6348370906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7228412695",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2347683,
+          10.0107356
+        ]
+      },
+      "id": "node/7228412695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8495282871",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2421424,
+          10.0746621
+        ]
+      },
+      "id": "node/8495282871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8501451586",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2204179,
+          10.067263
+        ]
+      },
+      "id": "node/8501451586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8501451587",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2191913,
+          10.0673982
+        ]
+      },
+      "id": "node/8501451587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8501451588",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2238116,
+          10.0659995
+        ]
+      },
+      "id": "node/8501451588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8501451603",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2181445,
+          10.0677157
+        ]
+      },
+      "id": "node/8501451603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8501451605",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2173101,
+          10.0692421
+        ]
+      },
+      "id": "node/8501451605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8542949698",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2070497,
+          10.0149682
+        ]
+      },
+      "id": "node/8542949698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8542949699",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2059211,
+          10.0149607
+        ]
+      },
+      "id": "node/8542949699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8542949700",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2051202,
+          10.0149994
+        ]
+      },
+      "id": "node/8542949700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8542949701",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2044064,
+          10.0150437
+        ]
+      },
+      "id": "node/8542949701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8543010662",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2072896,
+          10.0155032
+        ]
+      },
+      "id": "node/8543010662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8555784735",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2275488,
+          10.0638946
+        ]
+      },
+      "id": "node/8555784735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8557819822",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1986352,
+          10.0603805
+        ]
+      },
+      "id": "node/8557819822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8636367443",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2086612,
+          10.0078713
+        ]
+      },
+      "id": "node/8636367443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8748077593",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2184002,
+          10.0130044
+        ]
+      },
+      "id": "node/8748077593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8748077594",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2203389,
+          10.0125196
+        ]
+      },
+      "id": "node/8748077594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8748077605",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2332208,
+          10.0056684
+        ]
+      },
+      "id": "node/8748077605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8748077606",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2341802,
+          10.0009548
+        ]
+      },
+      "id": "node/8748077606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8790853233",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2359002,
+          10.0098959
+        ]
+      },
+      "id": "node/8790853233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8790853234",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2357873,
+          10.0095116
+        ]
+      },
+      "id": "node/8790853234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8790853283",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2264396,
+          10.0127427
+        ]
+      },
+      "id": "node/8790853283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8790853284",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2258303,
+          10.0122684
+        ]
+      },
+      "id": "node/8790853284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8790853285",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2267916,
+          10.0120882
+        ]
+      },
+      "id": "node/8790853285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8793022457",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2085624,
+          10.0460316
+        ]
+      },
+      "id": "node/8793022457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8793054167",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2443808,
+          10.0416058
+        ]
+      },
+      "id": "node/8793054167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8793054168",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2397863,
+          10.0465052
+        ]
+      },
+      "id": "node/8793054168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8793054169",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23675,
+          10.0490489
+        ]
+      },
+      "id": "node/8793054169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8793054170",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2321549,
+          10.0551365
+        ]
+      },
+      "id": "node/8793054170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849065",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2118323,
+          10.0025305
+        ]
+      },
+      "id": "node/9018849065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9051972731",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.207997,
+          10.0149527
+        ]
+      },
+      "id": "node/9051972731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9173768224",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1940836,
+          10.0759865
+        ]
+      },
+      "id": "node/9173768224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9173768225",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1999244,
+          10.0745166
+        ]
+      },
+      "id": "node/9173768225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9173768226",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.205554,
+          10.0713455
+        ]
+      },
+      "id": "node/9173768226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9173768241",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2117584,
+          10.0738782
+        ]
+      },
+      "id": "node/9173768241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177511500",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2045093,
+          10.0720837
+        ]
+      },
+      "id": "node/9177511500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9181637715",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2461253,
+          10.0097152
+        ]
+      },
+      "id": "node/9181637715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9300963552",
+        "direction": "forward",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2122741,
+          10.0200866
+        ]
+      },
+      "id": "node/9300963552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9300963554",
+        "direction": "forward",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2107601,
+          10.0204953
+        ]
+      },
+      "id": "node/9300963554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9301273460",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1281117,
+          9.9928214
+        ]
+      },
+      "id": "node/9301273460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9301273466",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1275512,
+          9.9902432
+        ]
+      },
+      "id": "node/9301273466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9309877893",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1607305,
+          10.008943
+        ]
+      },
+      "id": "node/9309877893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9432396394",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.227115,
+          10.0132068
+        ]
+      },
+      "id": "node/9432396394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9432396395",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.228199,
+          10.0123638
+        ]
+      },
+      "id": "node/9432396395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9432396396",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2296586,
+          10.0127052
+        ]
+      },
+      "id": "node/9432396396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9432396397",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2292609,
+          10.0130165
+        ]
+      },
+      "id": "node/9432396397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9432396398",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2294012,
+          10.0135881
+        ]
+      },
+      "id": "node/9432396398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9432396399",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2300909,
+          10.0135509
+        ]
+      },
+      "id": "node/9432396399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9432396400",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2310243,
+          10.0126653
+        ]
+      },
+      "id": "node/9432396400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9432396408",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2333065,
+          10.0115864
+        ]
+      },
+      "id": "node/9432396408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9432396409",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.233298,
+          10.0109444
+        ]
+      },
+      "id": "node/9432396409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9435360522",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2424087,
+          10.0117599
+        ]
+      },
+      "id": "node/9435360522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9435360539",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2476697,
+          10.0189871
+        ]
+      },
+      "id": "node/9435360539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9435360540",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2482493,
+          10.019467
+        ]
+      },
+      "id": "node/9435360540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9441338108",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2318416,
+          10.0104478
+        ]
+      },
+      "id": "node/9441338108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9441353249",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.236383,
+          10.0065118
+        ]
+      },
+      "id": "node/9441353249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9463841820",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2461487,
+          10.0711126
+        ]
+      },
+      "id": "node/9463841820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9601944631",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2112209,
+          10.0103857
+        ]
+      },
+      "id": "node/9601944631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9601944632",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2097399,
+          10.0104176
+        ]
+      },
+      "id": "node/9601944632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9604512003",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2228777,
+          9.9969422
+        ]
+      },
+      "id": "node/9604512003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9604512004",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2226713,
+          9.9964329
+        ]
+      },
+      "id": "node/9604512004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9604512006",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2227204,
+          9.9973256
+        ]
+      },
+      "id": "node/9604512006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9604512008",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2212022,
+          9.9974456
+        ]
+      },
+      "id": "node/9604512008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9604562543",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2243801,
+          9.9972772
+        ]
+      },
+      "id": "node/9604562543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9667189455",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2093631,
+          10.0814758
+        ]
+      },
+      "id": "node/9667189455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10862416204",
+        "direction": "both",
+        "surface": "asphalt",
+        "traffic_calming": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1434569,
+          10.0620024
+        ]
+      },
+      "id": "node/10862416204"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-11-27T03:03:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5712715634",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1637456,
+          9.989935
+        ]
+      },
+      "id": "node/5712715634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10670190425",
+        "leisure": "pitch",
+        "name": "Asociación Deportiva de Tiro con Arco ASTICA",
+        "opening_hours": "Sa-Su 08:00-12:00",
+        "phone": "50683167985",
+        "sport": "archery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2430916,
+          9.9996832
+        ]
+      },
+      "id": "node/10670190425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11043092777",
+        "leisure": "pitch",
+        "name": "El Angel",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2263959,
+          10.0285728
+        ]
+      },
+      "id": "node/11043092777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11057459976",
+        "leisure": "pitch",
+        "name": "Canchas Bolaños",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1326062,
+          9.995099
+        ]
+      },
+      "id": "node/11057459976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11366184291",
+        "access": "yes",
+        "leisure": "pitch",
+        "name": "Gregorio José Ramírez",
+        "sport": "skateboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2251053,
+          10.0093617
+        ]
+      },
+      "id": "node/11366184291"
+    }
+  ]
+}

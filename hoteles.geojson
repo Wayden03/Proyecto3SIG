@@ -1,0 +1,328 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-11-27T03:12:10Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/430957146",
+        "addr:city": "San Isidro",
+        "internet_access:fee": "no",
+        "name": "B&B Villa Pacandé",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2093747,
+          10.0476452
+        ]
+      },
+      "id": "node/430957146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1414457882",
+        "addr:city": "San Antonio",
+        "name": "Cabinas Pura Vida",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2244007,
+          10.0017962
+        ]
+      },
+      "id": "node/1414457882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2269493595",
+        "name": "Hotel El Diamante",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2002,
+          10.0141
+        ]
+      },
+      "id": "node/2269493595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3814064699",
+        "addr:city": "Alajuela",
+        "addr:housenumber": "75 metros este del Ebais de Alajuela Centro",
+        "addr:street": "Avenida 2",
+        "name": "Hotel Casa Tago",
+        "tourism": "hotel",
+        "wikidata": "Q111151186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2109011,
+          10.0160053
+        ]
+      },
+      "id": "node/3814064699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3818029179",
+        "name": "Charly's Place",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2144735,
+          10.0185978
+        ]
+      },
+      "id": "node/3818029179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3818029180",
+        "name": "El Tucán",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2144199,
+          10.018611
+        ]
+      },
+      "id": "node/3818029180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3818042919",
+        "name": "Paradise",
+        "source": "KG Ground Survey 2015",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2127045,
+          10.0189518
+        ]
+      },
+      "id": "node/3818042919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945051983",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida Central - Juan Manuel López del Corral",
+        "name": "Hotel Chico",
+        "source": "KG Ground Survey 2015",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2178944,
+          10.0150655
+        ]
+      },
+      "id": "node/3945051983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3979919304",
+        "addr:city": "Río Segundo",
+        "name": "La Villa Río Segundo B&B",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1804445,
+          10.0036453
+        ]
+      },
+      "id": "node/3979919304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982523606",
+        "addr:city": "Alajuela",
+        "name": "Hostel 5ta Avenida",
+        "note": "Hotel data current in 2011. Contains good contact information. Duplicates and \"no longer there\" are possible.",
+        "source": "KG Ground Survey 2015",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2136477,
+          10.0186308
+        ]
+      },
+      "id": "node/3982523606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982523977",
+        "addr:city": "Alajuela",
+        "name": "Hotel Green Day Inn",
+        "note": "Hotel data current in 2011. Contains good contact information. Duplicates and \"no longer there\" are possible.",
+        "source": "KG Ground Survey 2015",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2112245,
+          10.0186036
+        ]
+      },
+      "id": "node/3982523977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982525326",
+        "addr:city": "Alajuela",
+        "email": "mirafloresbb@hotmail.com",
+        "name": "Mango Verde Hostel",
+        "note": "Hotel data current in 2011. Contains good contact information. Duplicates and \"no longer there\" are possible.",
+        "note_1": "Ave 3 btwn Calles 2 & 4",
+        "phone": "2441-6330",
+        "source": "KG Ground Survey 2015",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.215182,
+          10.0175956
+        ]
+      },
+      "id": "node/3982525326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982527858",
+        "addr:city": "Alajuela",
+        "name": "Trapp Family Country Inn",
+        "note": "Hotel data current in 2011. Contains good contact information. Duplicates and \"no longer there\" are possible.",
+        "source": "KG Ground Survey 2015",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2245879,
+          9.9955113
+        ]
+      },
+      "id": "node/3982527858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4788462071",
+        "addr:city": "Alajuela",
+        "addr:housenumber": "75 metros al este de la esquina del Ebais de Alajuela Centro.",
+        "addr:street": "Avenida 2",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Hilda´s Bed and Breakfast",
+        "operator": "Tout Costa Rica",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2109227,
+          10.0158544
+        ]
+      },
+      "id": "node/4788462071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5437206421",
+        "name:fr": "chez pierre",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2042823,
+          10.0143669
+        ]
+      },
+      "id": "node/5437206421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5483800013",
+        "check_date": "2023-01-15",
+        "email": "hotelyourhouse@gmail.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Your House",
+        "name:es": "Su Casa",
+        "phone": "+506 2435 8626; +506 8853 8609",
+        "tourism": "hotel",
+        "website": "https://www.facebook.com/hotelyourhouse/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1796232,
+          10.0050486
+        ]
+      },
+      "id": "node/5483800013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10874904205",
+        "addr:housenumber": "+506 85242840",
+        "addr:postcode": "20102",
+        "addr:street": "Vía 3",
+        "email": "eskalamilodging@gmail.com",
+        "internet_access": "wlan",
+        "name": "Eskalami Lodging",
+        "opening_hours": "Mo-Su 07:00-10:00",
+        "phone": "+50685242840",
+        "tourism": "hotel",
+        "website": "https://www.facebook.com/profile.php?id=100088174924985&mibextid=ZbWKwL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2530702,
+          10.0111318
+        ]
+      },
+      "id": "node/10874904205"
+    }
+  ]
+}

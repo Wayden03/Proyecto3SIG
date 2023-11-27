@@ -1,0 +1,6422 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-11-27T03:10:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/460246936",
+        "name": "Licorera SC",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2179889,
+          10.0069762
+        ]
+      },
+      "id": "node/460246936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/496244667",
+        "addr:city": "Alajuela",
+        "name": "Ópticas Visión",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2074296,
+          10.0126467
+        ]
+      },
+      "id": "node/496244667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1298113497",
+        "name": "Carnicería y Verdulería Marley",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2016054,
+          10.0080338
+        ]
+      },
+      "id": "node/1298113497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1402535101",
+        "name": "Taller Denver",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18682,
+          10.05155
+        ]
+      },
+      "id": "node/1402535101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1402537728",
+        "name": "Abastecedor La Estrella",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1898,
+          10.04569
+        ]
+      },
+      "id": "node/1402537728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1402538372",
+        "name": "Mecanica General Paton",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1899715,
+          10.0460951
+        ]
+      },
+      "id": "node/1402538372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1402538695",
+        "name": "Abastecedor Guadalupe",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1900351,
+          10.0460279
+        ]
+      },
+      "id": "node/1402538695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1402543207",
+        "name": "Taller Mecanico Alvarez",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18574,
+          10.05202
+        ]
+      },
+      "id": "node/1402543207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1402547362",
+        "name": "Tecnimuflas Alex",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18594,
+          10.05069
+        ]
+      },
+      "id": "node/1402547362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1402581515",
+        "name": "Abastecedor El Diamante",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18366,
+          10.05972
+        ]
+      },
+      "id": "node/1402581515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2223351629",
+        "name": "Pulpería de Teo",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2213554,
+          10.010148
+        ]
+      },
+      "id": "node/2223351629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2267854826",
+        "contact:phone": "2240-0645",
+        "name": "Repuestos Rojas",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2165833,
+          10.0240861
+        ]
+      },
+      "id": "node/2267854826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2358277531",
+        "addr:city": "Alajuela",
+        "name": "El Seguro",
+        "shop": "bakery",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2114951,
+          10.0162504
+        ]
+      },
+      "id": "node/2358277531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2358277537",
+        "addr:city": "Alajuela",
+        "name": "Pancito's by Alexandra",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2147073,
+          10.0142234
+        ]
+      },
+      "id": "node/2358277537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2731627563",
+        "addr:city": "Desamparados",
+        "addr:housename": "OFICENTRO SANTAMARIA",
+        "alt_name": "PYASA Costa Rica",
+        "int_name": "PYASA",
+        "name": "Proyectos y Automatización PYASA",
+        "shop": "doityourself"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1964112,
+          10.0037415
+        ]
+      },
+      "id": "node/2731627563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2964641701",
+        "addr:city": "Río Segundo",
+        "addr:housenumber": "Oficentro Santamaria",
+        "addr:postcode": "21019",
+        "addr:street": "Airport Blvd",
+        "alt_name": "Equipos Neumaticos(Div. Kaeser)",
+        "description": "Compresores Sopladores Tubería Neumática",
+        "designation": "ENESA Oficina B1",
+        "int_name": "ENESA",
+        "name": "Equipos Neumaticos(Servicios)",
+        "opening_hours": "Mo-Fr 7:00-17:00; Sa 7:00-12:00",
+        "shop": "equipo Neumatico servicio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1957174,
+          10.0036359
+        ]
+      },
+      "id": "node/2964641701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3769851270",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2007844,
+          10.0188982
+        ]
+      },
+      "id": "node/3769851270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813944994",
+        "amenity": "cafe",
+        "branch": "Mercado de Alajuela",
+        "brand": "Musmanni",
+        "brand:wikidata": "Q19382082",
+        "brand:wikipedia": "no:Musmanni",
+        "capacity": "4",
+        "name": "Musmanni",
+        "shop": "bakery",
+        "source": "survey",
+        "source:name": "ECSL2017",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2158868,
+          10.0162599
+        ]
+      },
+      "id": "node/3813944994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3814057072",
+        "name": "Lovable",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2145992,
+          10.0148654
+        ]
+      },
+      "id": "node/3814057072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3814057074",
+        "name": "Quirós",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2144542,
+          10.0148998
+        ]
+      },
+      "id": "node/3814057074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3814057075",
+        "name": "Epokas",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2144979,
+          10.0151142
+        ]
+      },
+      "id": "node/3814057075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3814057077",
+        "name": "Los cubanos",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.214248,
+          10.0151497
+        ]
+      },
+      "id": "node/3814057077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3814057085",
+        "name": "UN Óptica",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2133296,
+          10.0153849
+        ]
+      },
+      "id": "node/3814057085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3814064697",
+        "name": "Barbería La Española",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2111238,
+          10.0159624
+        ]
+      },
+      "id": "node/3814064697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3814064700",
+        "name": "La casa del Ferretero",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2099958,
+          10.0162338
+        ]
+      },
+      "id": "node/3814064700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3818033482",
+        "name": "Imprenta Alajuela",
+        "shop": "copyshop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2142536,
+          10.0186493
+        ]
+      },
+      "id": "node/3818033482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3818042917",
+        "shop": "funeral_directors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2133557,
+          10.018808
+        ]
+      },
+      "id": "node/3818042917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3818042918",
+        "name": "El Agricultor",
+        "shop": "garden_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2131128,
+          10.0190037
+        ]
+      },
+      "id": "node/3818042918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3818064004",
+        "name": "La Confianza",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2081534,
+          10.0169313
+        ]
+      },
+      "id": "node/3818064004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3818064018",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2094019,
+          10.0146822
+        ]
+      },
+      "id": "node/3818064018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3818077943",
+        "name": "Guillá",
+        "shop": "craft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2097695,
+          10.0157574
+        ]
+      },
+      "id": "node/3818077943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3818182204",
+        "addr:city": "Alajuela",
+        "addr:street": "Ruta Nacional 124",
+        "name": "Librería Azul",
+        "shop": "copyshop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2178919,
+          10.0073052
+        ]
+      },
+      "id": "node/3818182204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3819735363",
+        "name": "Abastecedor Santa Cecilia",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2077253,
+          10.0185294
+        ]
+      },
+      "id": "node/3819735363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3819735365",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida 1",
+        "name": "La Granjita",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2068429,
+          10.0186284
+        ]
+      },
+      "id": "node/3819735365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3819743054",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2067839,
+          10.0188793
+        ]
+      },
+      "id": "node/3819743054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3819743765",
+        "name": "Bonanza",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2051698,
+          10.0194166
+        ]
+      },
+      "id": "node/3819743765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3819743768",
+        "name": "Don José",
+        "shop": "car_parts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2021571,
+          10.0202145
+        ]
+      },
+      "id": "node/3819743768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3821542877",
+        "name": "Dulces Pepe",
+        "shop": "confectionery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2155866,
+          10.0147842
+        ]
+      },
+      "id": "node/3821542877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3866405993",
+        "name": "Super Salón",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2148141,
+          10.0147385
+        ]
+      },
+      "id": "node/3866405993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3866410276",
+        "name": "Óptica Visión",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2144381,
+          10.0145832
+        ]
+      },
+      "id": "node/3866410276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3866410277",
+        "branch": "Alajuela",
+        "name": "Jirón",
+        "shop": "bed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2144561,
+          10.0146449
+        ]
+      },
+      "id": "node/3866410277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3866410278",
+        "name": "Steren Alajuela",
+        "shop": "radiotechnics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2144643,
+          10.0146737
+        ]
+      },
+      "id": "node/3866410278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3866411384",
+        "name": "Doña Chela (Helados de Sorbetera)",
+        "shop": "ice_cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2148136,
+          10.0139247
+        ]
+      },
+      "id": "node/3866411384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3868247359",
+        "name": "La Confianza",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2081714,
+          10.0170019
+        ]
+      },
+      "id": "node/3868247359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3868247360",
+        "name": "La Confianza",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2080606,
+          10.0170436
+        ]
+      },
+      "id": "node/3868247360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3868247361",
+        "name": "Muflas Rampa",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2081079,
+          10.0172376
+        ]
+      },
+      "id": "node/3868247361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869996720",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2007958,
+          10.0246504
+        ]
+      },
+      "id": "node/3869996720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3901922543",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.194875,
+          10.0183499
+        ]
+      },
+      "id": "node/3901922543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945026492",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida Central - Juan Manuel López del Corral",
+        "name": "Himalaya Macrobiótica Mundo Herbal",
+        "shop": "yes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2106011,
+          10.0170013
+        ]
+      },
+      "id": "node/3945026492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945026493",
+        "shop": "beauty",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2106683,
+          10.0169897
+        ]
+      },
+      "id": "node/3945026493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945026515",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida Central - Juan Manuel López del Corral",
+        "name": "Tsunami",
+        "shop": "yes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2112717,
+          10.0168364
+        ]
+      },
+      "id": "node/3945026515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945026516",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida Central - Juan Manuel López del Corral",
+        "name": "Regalate",
+        "shop": "gift",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2113241,
+          10.0168237
+        ]
+      },
+      "id": "node/3945026516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945026517",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida Central - Juan Manuel López del Corral",
+        "name": "MJ Electrónica",
+        "shop": "electronics",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2114431,
+          10.0168422
+        ]
+      },
+      "id": "node/3945026517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945039388",
+        "addr:city": "Alajuela",
+        "name": "Zapatto",
+        "shop": "shoes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2151222,
+          10.0158114
+        ]
+      },
+      "id": "node/3945039388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945039389",
+        "name": "Fashion Price",
+        "shop": "yes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2152095,
+          10.015795
+        ]
+      },
+      "id": "node/3945039389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945039390",
+        "name": "Mundo Cosmética",
+        "shop": "beauty",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2152917,
+          10.0157812
+        ]
+      },
+      "id": "node/3945039390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945039391",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida Central",
+        "name": "Mr. Rasta",
+        "shop": "yes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.215661,
+          10.0156785
+        ]
+      },
+      "id": "node/3945039391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945039396",
+        "name": "Penny Lane Sports",
+        "shop": "sports",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2160988,
+          10.0155581
+        ]
+      },
+      "id": "node/3945039396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945039397",
+        "name": "Multiaccesorios La Estrella",
+        "shop": "yes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2161535,
+          10.0155461
+        ]
+      },
+      "id": "node/3945039397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945051981",
+        "name": "Oster",
+        "shop": "yes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2176907,
+          10.0151032
+        ]
+      },
+      "id": "node/3945051981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945051990",
+        "name": "Shawal Barber Shop",
+        "shop": "hairdresser",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2181311,
+          10.0149867
+        ]
+      },
+      "id": "node/3945051990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945052001",
+        "name": "Hogar Del Mueble",
+        "shop": "furniture",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2184048,
+          10.0150949
+        ]
+      },
+      "id": "node/3945052001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3946831962",
+        "shop": "greengrocer",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2160764,
+          10.0110152
+        ]
+      },
+      "id": "node/3946831962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3946831963",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida 10 - Jesús Ocaña Rojas",
+        "name": "Centro De Pinturas Alajuela",
+        "shop": "paint",
+        "source": "KG Ground Survey 2015",
+        "source_1": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2159875,
+          10.0110412
+        ]
+      },
+      "id": "node/3946831963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3946831964",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida 10 - Jesús Ocaña Rojas",
+        "name": "Motocentro",
+        "shop": "car_repair",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2157826,
+          10.0110835
+        ]
+      },
+      "id": "node/3946831964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3960291690",
+        "addr:street": "Avenida 2",
+        "name": "3-2-1 Video Express",
+        "shop": "video",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2252146,
+          10.012152
+        ]
+      },
+      "id": "node/3960291690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3960402250",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 12",
+        "name": "Billares Aguilar Hermanos",
+        "shop": "yes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.217628,
+          10.0126782
+        ]
+      },
+      "id": "node/3960402250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3960402251",
+        "shop": "convenience",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2176087,
+          10.0126073
+        ]
+      },
+      "id": "node/3960402251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3962562209",
+        "name": "Mary",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2118424,
+          10.0192279
+        ]
+      },
+      "id": "node/3962562209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3968877504",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 9",
+        "name": "Rapi Fibras",
+        "shop": "car_repair",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2096273,
+          10.0186855
+        ]
+      },
+      "id": "node/3968877504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3968915335",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle Central",
+        "name": "Patty's Nails",
+        "shop": "beauty",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2138846,
+          10.0182662
+        ]
+      },
+      "id": "node/3968915335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3968915338",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle Central",
+        "name": "Hola Cupcakes",
+        "shop": "yes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2138781,
+          10.0182181
+        ]
+      },
+      "id": "node/3968915338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3968957607",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida 1",
+        "name": "Celu-Shop Costa Rica",
+        "shop": "mobile_phone",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.212916,
+          10.0172551
+        ]
+      },
+      "id": "node/3968957607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3968957635",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida 1",
+        "name": "Caprice",
+        "shop": "yes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2122896,
+          10.0174633
+        ]
+      },
+      "id": "node/3968957635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3968957636",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida 1",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2121114,
+          10.0175177
+        ]
+      },
+      "id": "node/3968957636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969024256",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 4",
+        "name": "Mundo Cosmético",
+        "shop": "cosmetics",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2152943,
+          10.0163637
+        ]
+      },
+      "id": "node/3969024256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969029759",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 4",
+        "name": "Mia Boutique",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2151971,
+          10.0160616
+        ]
+      },
+      "id": "node/3969029759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969029760",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 4",
+        "name": "Move",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2151723,
+          10.0159929
+        ]
+      },
+      "id": "node/3969029760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969029761",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 4",
+        "name": "Jaikel",
+        "phone": "2441 0979",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2151408,
+          10.0158886
+        ]
+      },
+      "id": "node/3969029761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969029777",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 4",
+        "name": "BHL Solutions",
+        "shop": "mobile_phone",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.214802,
+          10.0146889
+        ]
+      },
+      "id": "node/3969029777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969034135",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida 1",
+        "name": "ExceColor",
+        "shop": "copyshop",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2120735,
+          10.017532
+        ]
+      },
+      "id": "node/3969034135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969034136",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida 1",
+        "name": "Dr. Laptop y PC",
+        "shop": "computer",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2120422,
+          10.0175447
+        ]
+      },
+      "id": "node/3969034136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969064178",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Muebles El Carmen",
+        "phone": "2442 4254",
+        "shop": "furniture",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2154409,
+          10.0143238
+        ]
+      },
+      "id": "node/3969064178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969064179",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Colgantes Repuestos",
+        "shop": "mobile_phone",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2154702,
+          10.0143791
+        ]
+      },
+      "id": "node/3969064179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969064180",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Liberia Catolica",
+        "shop": "books",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2154913,
+          10.0144881
+        ]
+      },
+      "id": "node/3969064180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969064181",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Zapatería Sinai",
+        "shop": "shoes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2155019,
+          10.0145269
+        ]
+      },
+      "id": "node/3969064181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969072208",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Tienda Marianne",
+        "phone": "4034 1649",
+        "shop": "yes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2156347,
+          10.0148572
+        ]
+      },
+      "id": "node/3969072208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969072212",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Distribuidora Alfaro",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2156381,
+          10.0149811
+        ]
+      },
+      "id": "node/3969072212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969072213",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Issabela",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2156535,
+          10.015032
+        ]
+      },
+      "id": "node/3969072213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969072214",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Distribuidora Fidel Angel",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2156641,
+          10.015069
+        ]
+      },
+      "id": "node/3969072214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969072215",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "clothes": "underwear",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2156727,
+          10.015112
+        ]
+      },
+      "id": "node/3969072215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969072216",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "phone": "2443 1652",
+        "shop": "toys",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2156825,
+          10.0151382
+        ]
+      },
+      "id": "node/3969072216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969074927",
+        "name": "Fonseca Hernandez",
+        "shop": "yes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2010846,
+          10.0223273
+        ]
+      },
+      "id": "node/3969074927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969074928",
+        "name": "Macrobiótica AN",
+        "shop": "health_food",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2010755,
+          10.0222952
+        ]
+      },
+      "id": "node/3969074928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969097951",
+        "name": "Tienda Nicole",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.215685,
+          10.0152343
+        ]
+      },
+      "id": "node/3969097951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3969097952",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Inversiones Los Hermanos",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2157047,
+          10.0152861
+        ]
+      },
+      "id": "node/3969097952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3970953708",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 2",
+        "name": "Bella Flor",
+        "shop": "beauty",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2146695,
+          10.0174596
+        ]
+      },
+      "id": "node/3970953708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3970953709",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 2",
+        "name": "Bungaloo Boutique",
+        "phone": "8923 7149",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2146795,
+          10.0175021
+        ]
+      },
+      "id": "node/3970953709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3970953710",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida 3",
+        "name": "Fashion Life",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2147064,
+          10.0175476
+        ]
+      },
+      "id": "node/3970953710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3971045868",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 4",
+        "name": "Joyeria Rojas Esquivel",
+        "phone": "2443 4575",
+        "shop": "jewelry",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2154361,
+          10.01737
+        ]
+      },
+      "id": "node/3971045868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3971045869",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 4",
+        "name": "El Cometa Fashion",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2154229,
+          10.0173125
+        ]
+      },
+      "id": "node/3971045869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3971061999",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 4",
+        "name": "Calzado K-che",
+        "shop": "shoes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2151706,
+          10.0164278
+        ]
+      },
+      "id": "node/3971061999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3971062001",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 4",
+        "name": "Tienda Coral",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2151564,
+          10.016372
+        ]
+      },
+      "id": "node/3971062001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3971134480",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida 2",
+        "name": "Toscana Joyeria",
+        "shop": "jewelry",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2146371,
+          10.0148529
+        ]
+      },
+      "id": "node/3971134480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3971148901",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 4",
+        "name": "MJ Electrónica",
+        "shop": "electronics",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2143659,
+          10.0135686
+        ]
+      },
+      "id": "node/3971148901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3971148902",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 4",
+        "name": "Distribudora Cornelio",
+        "shop": "yes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2143538,
+          10.0135264
+        ]
+      },
+      "id": "node/3971148902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974471846",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Bisutería Brithany",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2160007,
+          10.0156103
+        ]
+      },
+      "id": "node/3974471846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974534949",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Carnicería Gallo Solo",
+        "phone": "2441 0186",
+        "shop": "butcher",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2163331,
+          10.0169587
+        ]
+      },
+      "id": "node/3974534949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974534950",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Opticas Economicas",
+        "phone": "2443 8981",
+        "shop": "optician",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2163178,
+          10.0169175
+        ]
+      },
+      "id": "node/3974534950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974544661",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "We Go Shopping",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2163494,
+          10.0170036
+        ]
+      },
+      "id": "node/3974544661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974556715",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Zona Outlet",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2163658,
+          10.0170542
+        ]
+      },
+      "id": "node/3974556715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974556720",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida 1",
+        "name": "Ibasa",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2160453,
+          10.0164157
+        ]
+      },
+      "id": "node/3974556720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974572931",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Chevere",
+        "shop": "shoes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2161293,
+          10.0169836
+        ]
+      },
+      "id": "node/3974572931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974572932",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Promo Store",
+        "shop": "shoes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2161146,
+          10.0169398
+        ]
+      },
+      "id": "node/3974572932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974572933",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Super Todo",
+        "shop": "variety_store",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2160988,
+          10.0168757
+        ]
+      },
+      "id": "node/3974572933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974572938",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Mundo Mágico",
+        "shop": "department_store",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2160691,
+          10.0167887
+        ]
+      },
+      "id": "node/3974572938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974581325",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Plasitca Alajuela",
+        "phone": "2442 2424",
+        "shop": "yes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2160593,
+          10.0167539
+        ]
+      },
+      "id": "node/3974581325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974581326",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "365",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2158222,
+          10.0161252
+        ]
+      },
+      "id": "node/3974581326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974581327",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Tienda Suyapa",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2157896,
+          10.0160112
+        ]
+      },
+      "id": "node/3974581327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974581328",
+        "addr:city": "Alajuela",
+        "addr:housenumber": "224",
+        "addr:street": "Calle 6",
+        "name": "Carnicería La Guaria",
+        "phone": "2442 7866",
+        "shop": "butcher",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2157751,
+          10.0159404
+        ]
+      },
+      "id": "node/3974581328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974581330",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Kamaloon",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2157278,
+          10.0157415
+        ]
+      },
+      "id": "node/3974581330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974595223",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 6",
+        "name": "Platamania",
+        "phone": "2442 8761",
+        "shop": "jewelry",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2157283,
+          10.0153693
+        ]
+      },
+      "id": "node/3974595223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974613672",
+        "addr:street": "Avenida Central",
+        "name": "KyBis Secret",
+        "shop": "yes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2160287,
+          10.0153856
+        ]
+      },
+      "id": "node/3974613672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974613673",
+        "name": "Boutique Fatema",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2160948,
+          10.0153639
+        ]
+      },
+      "id": "node/3974613673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974613674",
+        "clothes": "underwear",
+        "name": "Super Intima",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21615,
+          10.0153484
+        ]
+      },
+      "id": "node/3974613674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974613682",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida Central",
+        "name": "Mundo Mágico",
+        "shop": "department_store",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2168797,
+          10.0151273
+        ]
+      },
+      "id": "node/3974613682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974661069",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 8",
+        "name": "Gran Remate",
+        "shop": "shoes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2171611,
+          10.0171871
+        ]
+      },
+      "id": "node/3974661069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974661070",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 8",
+        "shop": "clothes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2171101,
+          10.0170194
+        ]
+      },
+      "id": "node/3974661070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974760644",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 8",
+        "name": "Chivita Colombiana",
+        "shop": "variety_store",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.217184,
+          10.0167638
+        ]
+      },
+      "id": "node/3974760644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974760645",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 8",
+        "name": "Beatz Barbor Shop",
+        "shop": "hairdresser",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2171751,
+          10.0167446
+        ]
+      },
+      "id": "node/3974760645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974760646",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 8",
+        "name": "Fruteras Y Verdanas",
+        "phone": "8669 2591",
+        "shop": "convenience",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2171627,
+          10.0167167
+        ]
+      },
+      "id": "node/3974760646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974805780",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 8",
+        "name": "Panadería y Reposteria",
+        "phone": "2431 2680",
+        "shop": "bakery",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2167413,
+          10.0151805
+        ]
+      },
+      "id": "node/3974805780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974831760",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 8",
+        "name": "Muebleria En Todo Medida",
+        "shop": "furniture",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2162371,
+          10.0141988
+        ]
+      },
+      "id": "node/3974831760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974831761",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 8",
+        "name": "La Casa del Azulejo y El Piso Ceramico",
+        "phone": "441 0729",
+        "shop": "craft",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2162123,
+          10.0140995
+        ]
+      },
+      "id": "node/3974831761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974831762",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 8",
+        "name": "Ferretería Hnos Fonseca",
+        "phone": "2441 0919",
+        "shop": "hardware",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2161857,
+          10.0139844
+        ]
+      },
+      "id": "node/3974831762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974854757",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 8",
+        "name": "Linda",
+        "shop": "variety_store",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2170463,
+          10.0167299
+        ]
+      },
+      "id": "node/3974854757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974854758",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 8",
+        "name": "Tecno phone",
+        "shop": "mobile_phone",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2170728,
+          10.0168624
+        ]
+      },
+      "id": "node/3974854758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974963303",
+        "name": "La Choza Del Pollo #2",
+        "shop": "butcher",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2422692,
+          10.0128502
+        ]
+      },
+      "id": "node/3974963303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974963305",
+        "name": "Panadería San José",
+        "shop": "bakery",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2423152,
+          10.013015
+        ]
+      },
+      "id": "node/3974963305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3976540876",
+        "addr:street": "Calle Central",
+        "name": "Syle House",
+        "shop": "yes",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2139366,
+          10.0178832
+        ]
+      },
+      "id": "node/3976540876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4065317532",
+        "addr:city": "Alajuela",
+        "addr:street": "Avenida Jesús Ocaña Rojas",
+        "branch": "Plaza Real",
+        "brand": "ICE",
+        "brand:wikidata": "Q3431114",
+        "name": "Agencia ICE",
+        "opening_hours": "Mo-Su 10:00-18:30",
+        "shop": "telecommunication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2077291,
+          10.0127497
+        ]
+      },
+      "id": "node/4065317532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4185683881",
+        "name": "Suplident",
+        "shop": "medical_supply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2097759,
+          10.0152777
+        ]
+      },
+      "id": "node/4185683881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4222009904",
+        "addr:city": "Alajuela",
+        "brand": "Claro",
+        "brand:wikidata": "Q1770208",
+        "brand:wikipedia": "en:Claro (company)",
+        "name": "Claro",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2075608,
+          10.012617
+        ]
+      },
+      "id": "node/4222009904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4222009905",
+        "addr:city": "Alajuela",
+        "brand": "Movistar",
+        "brand:wikidata": "Q967735",
+        "brand:wikipedia": "en:Movistar",
+        "name": "Movistar",
+        "operator": "Telefonica",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2076624,
+          10.0125925
+        ]
+      },
+      "id": "node/4222009905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4241255013",
+        "name": "Minisuper Rolan",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1978064,
+          10.01571
+        ]
+      },
+      "id": "node/4241255013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4244269059",
+        "name": "VerduleríaManá",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1985521,
+          10.0126661
+        ]
+      },
+      "id": "node/4244269059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4244522426",
+        "name": "Vivero Green",
+        "phone": "+50624426191",
+        "shop": "garden_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1990015,
+          10.0150009
+        ]
+      },
+      "id": "node/4244522426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4246502196",
+        "name": "Nature",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1969507,
+          10.01612
+        ]
+      },
+      "id": "node/4246502196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4248325544",
+        "description": "Repuestos para frenos",
+        "name": "Repuestos Arias",
+        "phone": "24416733",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1998311,
+          10.014376
+        ]
+      },
+      "id": "node/4248325544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4248325545",
+        "description": "taller y repuestos",
+        "name": "Cale",
+        "phone": "24415733",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2001508,
+          10.0139498
+        ]
+      },
+      "id": "node/4248325545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4248325625",
+        "name": "Shumager",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2003204,
+          10.0137397
+        ]
+      },
+      "id": "node/4248325625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4253005221",
+        "name": "Sala de Belleza Greta Studio",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.211284,
+          10.021613
+        ]
+      },
+      "id": "node/4253005221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4253016981",
+        "name": "Celulares El Carmen",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2147517,
+          10.0113762
+        ]
+      },
+      "id": "node/4253016981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4253017133",
+        "name": "Cerrajería Calderón",
+        "opening_hours": "Mo-Fr 08:30-17:00; Sa 07:30-16:00; Su 08:00-12:00",
+        "shop": "locksmith"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2147983,
+          10.0115103
+        ]
+      },
+      "id": "node/4253017133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4254692289",
+        "amenity": "cafe",
+        "branch": "Alajuela",
+        "brand": "Juan Valdez Café",
+        "brand:wikidata": "Q6301102",
+        "brand:wikipedia": "en:Juan Valdez Café",
+        "cuisine": "coffee_shop",
+        "name": "Juan Valdez Café",
+        "shop": "coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.211578,
+          10.0050572
+        ]
+      },
+      "id": "node/4254692289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4254692290",
+        "addr:city": "Alajuela",
+        "addr:street": "Radial Francisco J. Orlich",
+        "branch": "Alajuela",
+        "name": "Cemaco",
+        "shop": "houseware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2115967,
+          10.0033948
+        ]
+      },
+      "id": "node/4254692290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4282057804",
+        "addr:city": "Desamparados",
+        "addr:street": "Calle Las Américas",
+        "name": "Súper Los Almendros",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2013234,
+          10.0119512
+        ]
+      },
+      "id": "node/4282057804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4284991158",
+        "description": "tapicería",
+        "name": "Almacenes Santuma",
+        "shop": "houseware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2161502,
+          10.0136904
+        ]
+      },
+      "id": "node/4284991158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4353267865",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle 11",
+        "check_date": "2023-01-15",
+        "name": "Vork Barbier",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-18:00",
+        "shop": "hairdresser",
+        "website": "https://vorkbarbier.com/alajuela/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2064668,
+          10.01164
+        ]
+      },
+      "id": "node/4353267865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4550104765",
+        "name": "Kin",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2159769,
+          10.0173725
+        ]
+      },
+      "id": "node/4550104765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4550105827",
+        "name": "El Establo",
+        "shop": "agrarian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2170747,
+          10.0163868
+        ]
+      },
+      "id": "node/4550105827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4551104532",
+        "name": "Aguilar",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1957936,
+          10.0173755
+        ]
+      },
+      "id": "node/4551104532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4551112498",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1929969,
+          10.0192483
+        ]
+      },
+      "id": "node/4551112498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4551112500",
+        "name": "Pulpería Sofía",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1929296,
+          10.0192921
+        ]
+      },
+      "id": "node/4551112500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4551113633",
+        "name": "Relax",
+        "phone": "25604272",
+        "shop": "bed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1926292,
+          10.0194825
+        ]
+      },
+      "id": "node/4551113633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4551113634",
+        "name": "El Arte",
+        "phone": "85245614",
+        "shop": "paint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1925219,
+          10.0195386
+        ]
+      },
+      "id": "node/4551113634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4551117747",
+        "shop": "copyshop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.191209,
+          10.0205316
+        ]
+      },
+      "id": "node/4551117747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4677116492",
+        "name": "Carnes Castillo",
+        "name:es": "Carnes Castillo",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2171515,
+          10.0133142
+        ]
+      },
+      "id": "node/4677116492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4878821821",
+        "name": "Sr y Sra Ese",
+        "name:es": "Sr y Sra Ese",
+        "shop": "gift",
+        "website": "http://www.srysraese.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.226016,
+          10.0003789
+        ]
+      },
+      "id": "node/4878821821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5018965522",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2155111,
+          10.0182024
+        ]
+      },
+      "id": "node/5018965522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5131207559",
+        "name": "Lubricentro El Rey",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2048715,
+          10.0279911
+        ]
+      },
+      "id": "node/5131207559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5131245702",
+        "name": "Panes de la Villa",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2080838,
+          10.0166234
+        ]
+      },
+      "id": "node/5131245702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5304082961",
+        "name": "Mini Súper Bermak",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2061536,
+          10.007118
+        ]
+      },
+      "id": "node/5304082961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5305371521",
+        "internet_access": "wlan",
+        "name": "Color Bar Salón",
+        "phone": "70125620",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2146183,
+          10.0193051
+        ]
+      },
+      "id": "node/5305371521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5311473303",
+        "name": "Chupis",
+        "phone": "24433452",
+        "shop": "medical_supply",
+        "website": "www.chupis.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2097201,
+          10.018141
+        ]
+      },
+      "id": "node/5311473303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5312783971",
+        "name": "Electro Repuestos",
+        "phone": "24305129",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2170589,
+          10.0167876
+        ]
+      },
+      "id": "node/5312783971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5316900018",
+        "name": "Tecnigas",
+        "phone": "24418060",
+        "shop": "gas",
+        "website": "https://tecnigascr.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2097886,
+          10.0190091
+        ]
+      },
+      "id": "node/5316900018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5327563321",
+        "name": "Mini Super Pavas",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1848632,
+          10.0644283
+        ]
+      },
+      "id": "node/5327563321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5339512316",
+        "addr:city": "Alajuela",
+        "addr:street": "Vía 125",
+        "name": "Distribuidora Alfaro",
+        "opening_hours": "Tu-Su 10:00-22:00",
+        "shop": "wholesale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2075395,
+          10.0222443
+        ]
+      },
+      "id": "node/5339512316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5438013458",
+        "addr:city": "Desamparados",
+        "addr:street": "Calle Las Américas",
+        "name": "Centro Llantero Desamparados",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "shop": "tyres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1761558,
+          10.0247722
+        ]
+      },
+      "id": "node/5438013458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5470855525",
+        "name": "Goodlight books",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.212365,
+          10.0183169
+        ]
+      },
+      "id": "node/5470855525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478261121",
+        "name": "Taller Motociclista",
+        "name:en": "Motorist garage",
+        "phone": "+50624301291",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2154453,
+          10.0129665
+        ]
+      },
+      "id": "node/5478261121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5572259521",
+        "addr:city": "Desamparados",
+        "addr:street": "Vía 123",
+        "check_date:opening_hours": "2022-03-20",
+        "name": "El Éxito",
+        "opening_hours": "Mo-Su 06:30-21:30",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1861934,
+          10.0246913
+        ]
+      },
+      "id": "node/5572259521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5601118134",
+        "addr:city": "Río Segundo",
+        "branch": "Alajuela",
+        "name": "Gef",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2080591,
+          10.0030721
+        ]
+      },
+      "id": "node/5601118134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5601118284",
+        "addr:city": "Río Segundo",
+        "name": "Optik Plus",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2079829,
+          10.0031386
+        ]
+      },
+      "id": "node/5601118284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5601118959",
+        "addr:city": "Río Segundo",
+        "name": "Persianas Canet",
+        "shop": "window_blind"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2079009,
+          10.0031549
+        ]
+      },
+      "id": "node/5601118959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5604902040",
+        "addr:city": "Alajuela",
+        "name": "Viajes Colón",
+        "shop": "travel_agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2067924,
+          10.0127118
+        ]
+      },
+      "id": "node/5604902040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5604902042",
+        "addr:city": "Alajuela",
+        "branch": "La Tropicana",
+        "brand:wikipedia": "en:Mango (retailer)",
+        "name": "Surf y Patinaje Mango",
+        "not:brand:wikidata": "Q136503",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2068362,
+          10.0127008
+        ]
+      },
+      "id": "node/5604902042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5726818523",
+        "shop": "locksmith"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2177228,
+          10.0129848
+        ]
+      },
+      "id": "node/5726818523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5726818528",
+        "shop": "tailor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2172932,
+          10.0132806
+        ]
+      },
+      "id": "node/5726818528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5726818537",
+        "shop": "copyshop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2171264,
+          10.013285
+        ]
+      },
+      "id": "node/5726818537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5726818550",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2170397,
+          10.013028
+        ]
+      },
+      "id": "node/5726818550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5726836478",
+        "name": "Sofía Mar",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2149465,
+          10.0125063
+        ]
+      },
+      "id": "node/5726836478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5726836483",
+        "name": "Sastrería Julians",
+        "shop": "tailor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.215085,
+          10.0124469
+        ]
+      },
+      "id": "node/5726836483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5792261953",
+        "addr:street": "Avenida 3",
+        "name": "Electra",
+        "opening_hours": "Mo-Sa 08:15-17:30",
+        "phone": "2441 5257",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2168848,
+          10.0169418
+        ]
+      },
+      "id": "node/5792261953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5792272053",
+        "name": "Beirute",
+        "opening_hours": "Mo-Fr 08:30-17:00; Sa 08:30-12:00",
+        "phone": "2440 -3740",
+        "shop": "outdoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2127814,
+          10.0204463
+        ]
+      },
+      "id": "node/5792272053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5792283053",
+        "name": "Total Parts",
+        "opening_hours": "Mo-Fr 08:30-17:00; Sa 08:30-13:00",
+        "phone": "2430 1846",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2135184,
+          10.0098796
+        ]
+      },
+      "id": "node/5792283053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5872617459",
+        "name": "Repuestos San Francisco",
+        "shop": "car_parts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2178356,
+          10.007861
+        ]
+      },
+      "id": "node/5872617459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5872617460",
+        "name": "Librería Fersa",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2180039,
+          10.0069083
+        ]
+      },
+      "id": "node/5872617460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5872617461",
+        "addr:city": "Alajuela",
+        "name": "Panadaría Leandro",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.218015,
+          10.0068497
+        ]
+      },
+      "id": "node/5872617461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924433790",
+        "addr:city": "Río Segundo",
+        "name": "Licores y Cremas Lizano S.A.",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1806523,
+          10.0015012
+        ]
+      },
+      "id": "node/5924433790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924433792",
+        "addr:city": "Río Segundo",
+        "name": "Diagnostic and Service Trucks Center",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1789973,
+          10.0022097
+        ]
+      },
+      "id": "node/5924433792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924517703",
+        "addr:city": "Río Segundo",
+        "name": "Maderas Importadas Maimsa",
+        "shop": "trade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1774348,
+          10.0028805
+        ]
+      },
+      "id": "node/5924517703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924517704",
+        "addr:city": "Río Segundo",
+        "name": "Coresa S.A.",
+        "shop": "copyshop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1785694,
+          10.002833
+        ]
+      },
+      "id": "node/5924517704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924672455",
+        "addr:city": "Desamparados",
+        "name": "Centriz",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1959017,
+          10.0039703
+        ]
+      },
+      "id": "node/5924672455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6076248574",
+        "addr:city": "Alajuela",
+        "name": "Mundo Spark Alajuela",
+        "shop": "car_parts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2078755,
+          10.0088627
+        ]
+      },
+      "id": "node/6076248574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6076248579",
+        "addr:city": "Alajuela",
+        "name": "Repuestos Conejo",
+        "shop": "car_parts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2080581,
+          10.0091504
+        ]
+      },
+      "id": "node/6076248579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6179040345",
+        "name": "Sleepland",
+        "shop": "bed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2174379,
+          10.016804
+        ]
+      },
+      "id": "node/6179040345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6179079635",
+        "name": "Planet Fiesta",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2173481,
+          10.0168266
+        ]
+      },
+      "id": "node/6179079635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6179088689",
+        "name": "Jiménez Barber Shop",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2174018,
+          10.0168203
+        ]
+      },
+      "id": "node/6179088689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6179110095",
+        "name": "Peluquería Marianella",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2170691,
+          10.0168288
+        ]
+      },
+      "id": "node/6179110095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6179117451",
+        "name": "Cornelio",
+        "note": "Está tienda es una suplidora de artículos de belleza, pero no sé cómo agregar las etiquetas adecuadas.",
+        "shop": "fashion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2173572,
+          10.0169576
+        ]
+      },
+      "id": "node/6179117451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6179143737",
+        "name": "Manjares",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2170703,
+          10.0170688
+        ]
+      },
+      "id": "node/6179143737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6180898382",
+        "level": "1",
+        "name": "Coopearsa",
+        "shop": "gift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2019263,
+          9.9987769
+        ]
+      },
+      "id": "node/6180898382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6180898383",
+        "addr:city": "San José",
+        "addr:full": "Aeropuerto Internacional Juan Santamaría",
+        "addr:housename": "Aeropuerto Internacional Juan Santamaría",
+        "addr:postcode": "???",
+        "addr:street": "Radial Francisco J. Orlich",
+        "level": "1",
+        "name": "Mipymes",
+        "shop": "gift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.201988,
+          9.9987571
+        ]
+      },
+      "id": "node/6180898383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6180902885",
+        "level": "1",
+        "name": "Terra Tica",
+        "shop": "gift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2021328,
+          9.9987109
+        ]
+      },
+      "id": "node/6180902885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6180902887",
+        "addr:city": "San José",
+        "addr:full": "Aeropuerto Internacional Juan Santamaría",
+        "addr:housename": "Aeropuerto Internacional Juan Santamaría",
+        "addr:postcode": "???",
+        "addr:street": "Radial Francisco J. Orlich",
+        "level": "1",
+        "name": "Green Trails",
+        "shop": "gift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2022066,
+          9.9985194
+        ]
+      },
+      "id": "node/6180902887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6181638989",
+        "name": "Mia Derma",
+        "shop": "massage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2025478,
+          9.998344
+        ]
+      },
+      "id": "node/6181638989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6181639091",
+        "addr:city": "San José",
+        "addr:full": "Aeropuerto Internacional Juan Santamaría",
+        "addr:housename": "Aeropuerto Internacional Juan Santamaría",
+        "addr:postcode": "???",
+        "addr:street": "Radial Francisco J. Orlich",
+        "name": "Duty Free",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2026278,
+          9.9982163
+        ]
+      },
+      "id": "node/6181639091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6202266219",
+        "drink:juice": "fruits",
+        "name": "Pura vida Jugos",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2095821,
+          10.0184954
+        ]
+      },
+      "id": "node/6202266219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6208269886",
+        "name": "Ciclo José",
+        "phone": "8796-0570",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2442761,
+          10.007315
+        ]
+      },
+      "id": "node/6208269886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6214951608",
+        "name": "Shaddai",
+        "shop": "massage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2110601,
+          10.0142739
+        ]
+      },
+      "id": "node/6214951608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6286187756",
+        "shop": "lottery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2061662,
+          10.0054336
+        ]
+      },
+      "id": "node/6286187756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6286189395",
+        "shop": "car_parts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2015131,
+          10.002318
+        ]
+      },
+      "id": "node/6286189395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6286189399",
+        "opening_hours": "Mo-Sa 07:30-18:00",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2065283,
+          10.0050996
+        ]
+      },
+      "id": "node/6286189399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6286189401",
+        "name": "Don Paco",
+        "phone": "83213885",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2045054,
+          10.0071811
+        ]
+      },
+      "id": "node/6286189401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6286189530",
+        "name": "Super Sague",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2066201,
+          10.0049201
+        ]
+      },
+      "id": "node/6286189530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6286189532",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2050353,
+          10.0066433
+        ]
+      },
+      "id": "node/6286189532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6286189588",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2048208,
+          10.0068927
+        ]
+      },
+      "id": "node/6286189588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6286189589",
+        "name": "Super El Porvenir",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2052134,
+          10.0068569
+        ]
+      },
+      "id": "node/6286189589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6339083585",
+        "name": "Souvenir Museum",
+        "shop": "gift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2149047,
+          10.0307038
+        ]
+      },
+      "id": "node/6339083585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6349955985",
+        "addr:housenumber": "#24D",
+        "addr:postcode": "20102",
+        "addr:street": "Radial Coyol",
+        "email": "marbe3m@gmail.com",
+        "internet_access": "wlan",
+        "name": "Sala de Belleza Marbe",
+        "name:en": "Marbe's Beauty Salon",
+        "opening_hours": "Mo-Sa 09:00-17:00",
+        "phone": "24333523",
+        "shop": "beauty",
+        "website": "https://www.facebook.com/SalaDeBellezaMarbe/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2480138,
+          10.0056689
+        ]
+      },
+      "id": "node/6349955985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6437568837",
+        "name": "Mini súper La Hiedra",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2051931,
+          10.0160615
+        ]
+      },
+      "id": "node/6437568837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6643491565",
+        "addr:city": "Desamparados",
+        "addr:street": "Vía 123",
+        "name": "Carnes Castillo",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1891768,
+          10.0225543
+        ]
+      },
+      "id": "node/6643491565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6708392592",
+        "name": "Mini Súper Daniel",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2014903,
+          10.015804
+        ]
+      },
+      "id": "node/6708392592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6837654671",
+        "addr:city": "Alajuela",
+        "addr:street": "Radial Francisco J. Orlich",
+        "branch": "Montserrat",
+        "brand": "ICE",
+        "brand:wikidata": "Q3431114",
+        "name": "Agencia ICE",
+        "shop": "telecommunication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2122613,
+          10.0035146
+        ]
+      },
+      "id": "node/6837654671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6916735186",
+        "name": "Computer workshop (e.g. Apple)",
+        "phone": "+50660901030",
+        "shop": "computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2123267,
+          10.0173741
+        ]
+      },
+      "id": "node/6916735186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6975067732",
+        "name": "Taller Pochet",
+        "phone": "24423760",
+        "service:vehicle:air_conditioning": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2229499,
+          10.0151625
+        ]
+      },
+      "id": "node/6975067732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6985316703",
+        "name": "Cootaxa",
+        "service": "tyres",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1968818,
+          10.0191571
+        ]
+      },
+      "id": "node/6985316703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6987502114",
+        "name": "Alajuela express",
+        "phone": "8988500",
+        "shop": "locksmith"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2230119,
+          10.0152122
+        ]
+      },
+      "id": "node/6987502114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6987572426",
+        "name": "Los Tequis",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2172485,
+          10.0171589
+        ]
+      },
+      "id": "node/6987572426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005171136",
+        "shop": "ticket",
+        "vending": "admission_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.208915,
+          10.0211498
+        ]
+      },
+      "id": "node/7005171136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027379220",
+        "name": "TICA A134",
+        "shop": "wholesale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1870684,
+          10.0000189
+        ]
+      },
+      "id": "node/7027379220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027385129",
+        "name": "TICA A153",
+        "shop": "wholesale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2122642,
+          9.9977095
+        ]
+      },
+      "id": "node/7027385129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027416016",
+        "name": "TICA A161",
+        "shop": "wholesale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1966489,
+          10.0017294
+        ]
+      },
+      "id": "node/7027416016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027627408",
+        "name": "TICA A259",
+        "shop": "wholesale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1972027,
+          9.994479
+        ]
+      },
+      "id": "node/7027627408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027755033",
+        "name": "TICA H009",
+        "shop": "wholesale",
+        "wholesale": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2079422,
+          10.0011032
+        ]
+      },
+      "id": "node/7027755033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7030409701",
+        "name": "TICA T019",
+        "shop": "wholesale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1718728,
+          9.9956082
+        ]
+      },
+      "id": "node/7030409701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7039972829",
+        "name": "FERREMARKET Pueblo Nuevo",
+        "opening_hours": "Mo-Sa 07:00-18:00; Su 08:00-13:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2241832,
+          10.020219
+        ]
+      },
+      "id": "node/7039972829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7096576407",
+        "name": "Dariá Kids",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2107761,
+          10.0169947
+        ]
+      },
+      "id": "node/7096576407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7096834072",
+        "name": "Dariá Outlet",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2115539,
+          10.0164359
+        ]
+      },
+      "id": "node/7096834072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7096882668",
+        "name": "Shagin",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2117187,
+          10.0163628
+        ]
+      },
+      "id": "node/7096882668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7114981387",
+        "description": "mejorar las etiquetas de este punto. es outlet de línea blanca.",
+        "name": "Outlet La Ceiba",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.211434,
+          10.0342245
+        ]
+      },
+      "id": "node/7114981387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7115246099",
+        "name": "Rotumanía",
+        "shop": "copyshop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2156838,
+          10.0177488
+        ]
+      },
+      "id": "node/7115246099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7129362262",
+        "name": "Ciclo 33",
+        "shop": "bicycle",
+        "sport": "cycling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2157419,
+          10.0161608
+        ]
+      },
+      "id": "node/7129362262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7230842853",
+        "name": "Juice House",
+        "shop": "beverages"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.214685,
+          10.014435
+        ]
+      },
+      "id": "node/7230842853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7360189883",
+        "addr:city": "San José",
+        "addr:full": "Aeropuerto Internacional Juan Santamaría",
+        "addr:housename": "Aeropuerto Internacional Juan Santamaría",
+        "addr:postcode": "???",
+        "addr:street": "Radial Francisco J. Orlich",
+        "brand": "Albatros",
+        "brand:website": "https://albatrosair.aero/",
+        "brand:wikidata": "Q20721701",
+        "brand:wikipedia": "en:Albatros Airlines",
+        "contact:facebook": "https://www.facebook.com/albatrosairlines/",
+        "contact:instagram": "https://www.instagram.com/albatrosairve/",
+        "contact:twitter": "https://twitter.com/Albatrosairve",
+        "currency:BsF": "yes",
+        "currency:EUR": "yes",
+        "currency:USD": "yes",
+        "currency:others": "yes",
+        "email": "ventas.costarica@albatrosair.aero",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Albatros Airlines",
+        "note": "Aerolíneas Venezolanas con Rutas Internacionales",
+        "opening_hours": "Mo-Su 07:00-17:00",
+        "operator": "Alianza Glancelot, C.A.",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:diners_club": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "phone": "+506 4080-9210",
+        "phone:call_center": "0501-2522876",
+        "shop": "travel_agency",
+        "short_name": "Albatros",
+        "smoking": "no",
+        "surveillance": "indoor",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2044864,
+          9.997865
+        ]
+      },
+      "id": "node/7360189883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7607047179",
+        "name": "Cañon",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2178443,
+          10.0166863
+        ]
+      },
+      "id": "node/7607047179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7898188994",
+        "name": "BC",
+        "phone": "24331008",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2353253,
+          10.0120197
+        ]
+      },
+      "id": "node/7898188994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7961231195",
+        "name": "ARBA",
+        "phone": "24438846",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2062512,
+          10.0248912
+        ]
+      },
+      "id": "node/7961231195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969446585",
+        "addr:street": "Corazón de Jesús",
+        "name": "Taller El Castillo",
+        "name:es": "Taller El Castillo",
+        "phone": "+506 2443 2024",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2164229,
+          10.0174898
+        ]
+      },
+      "id": "node/7969446585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8164999520",
+        "addr:city": "San Pedro",
+        "addr:street": "Carretera Marta Soto Jiménez",
+        "name": "Panadería La Espiga",
+        "opening_hours": "Mo-Su 06:00-18:00",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1712756,
+          10.0295235
+        ]
+      },
+      "id": "node/8164999520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8265550534",
+        "name": "Tiancy Médica",
+        "phone": "24415844",
+        "shop": "medical_supply",
+        "website": "https://www.tiancymedica.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2218958,
+          10.0149281
+        ]
+      },
+      "id": "node/8265550534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8389140652",
+        "description": "Se venden más de 200 productos orgánicos y naturales, por medio de la plataforma digital. Son orgánicos o agrosostenibles (orgánicos sin certificado). Directo de las familias campesinas productoras.",
+        "name": "Enraizadas",
+        "organic": "only",
+        "phone": "+506 8889 1797",
+        "shop": "supermarket",
+        "website": "https://www.enraizadas.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2124034,
+          10.0178419
+        ]
+      },
+      "id": "node/8389140652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8455083569",
+        "addr:city": "Alajuela",
+        "addr:street": "Calle Paso Flores",
+        "name": "Mae's Barbería 2",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2059236,
+          10.0128628
+        ]
+      },
+      "id": "node/8455083569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8591346126",
+        "name": "Costa Rica Meadery",
+        "shop": "wine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1692746,
+          10.0414123
+        ]
+      },
+      "id": "node/8591346126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8688376408",
+        "beauty": "nails",
+        "name": "Saga",
+        "phone": "+506 61570583",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2021055,
+          10.0103995
+        ]
+      },
+      "id": "node/8688376408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8951863073",
+        "addr:city": "Desamparados",
+        "addr:street": "Calle Rosales",
+        "name": "Súper Barrantes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1730121,
+          10.0370156
+        ]
+      },
+      "id": "node/8951863073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018843487",
+        "branch": "Alajuela",
+        "name": "Vértigo",
+        "shop": "music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2117036,
+          10.0050265
+        ]
+      },
+      "id": "node/9018843487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018843488",
+        "name": "Accesorios SK",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2115821,
+          10.005014
+        ]
+      },
+      "id": "node/9018843488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018843489",
+        "branch": "Alajuela",
+        "name": "Penny Lane Xtreme",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2116091,
+          10.0040231
+        ]
+      },
+      "id": "node/9018843489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018843490",
+        "branch": "Alajuela",
+        "brand": "Nike",
+        "brand:wikidata": "Q483915",
+        "brand:wikipedia": "en:Nike, Inc.",
+        "name": "Nike",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2117699,
+          10.0040876
+        ]
+      },
+      "id": "node/9018843490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018843491",
+        "branch": "Alajuela",
+        "name": "Universal",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2110643,
+          10.0052292
+        ]
+      },
+      "id": "node/9018843491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018843503",
+        "brand": "Movistar",
+        "brand:wikidata": "Q967735",
+        "brand:wikipedia": "en:Movistar",
+        "name": "Movistar",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2122625,
+          10.0036128
+        ]
+      },
+      "id": "node/9018843503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018843504",
+        "branch": "Montserrat",
+        "name": "Importadora Monge",
+        "shop": "appliance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2122614,
+          10.003687
+        ]
+      },
+      "id": "node/9018843504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018843505",
+        "branch": "Montserrat",
+        "name": "Gollo",
+        "shop": "appliance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2122625,
+          10.0037701
+        ]
+      },
+      "id": "node/9018843505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018843507",
+        "branch": "Los Molinos",
+        "brand": "Claro",
+        "brand:wikidata": "Q1770208",
+        "brand:wikipedia": "en:Claro (company)",
+        "name": "Claro",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2113287,
+          10.004161
+        ]
+      },
+      "id": "node/9018843507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018843508",
+        "branch": "Los Molinos",
+        "name": "Toys",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2112607,
+          10.004314
+        ]
+      },
+      "id": "node/9018843508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018843509",
+        "branch": "Alajuela",
+        "brand": "Office Depot",
+        "brand:wikidata": "Q1337797",
+        "brand:wikipedia": "en:The ODP Corporation",
+        "name": "Office Depot",
+        "shop": "stationery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2110192,
+          10.0053915
+        ]
+      },
+      "id": "node/9018843509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018843510",
+        "branch": "Alajuela",
+        "name": "Penny Lane Sport",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.211595,
+          10.0040958
+        ]
+      },
+      "id": "node/9018843510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018843512",
+        "branch": "Los Molinos",
+        "name": "Ekono",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.210817,
+          10.0050182
+        ]
+      },
+      "id": "node/9018843512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018843515",
+        "branch": "Los Molinos",
+        "name": "Spoon",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2116105,
+          10.0057054
+        ]
+      },
+      "id": "node/9018843515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018843516",
+        "branch": "Alajuela",
+        "brand": "Forever 21",
+        "brand:wikidata": "Q1060537",
+        "brand:wikipedia": "en:Forever 21",
+        "name": "Forever 21",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2116219,
+          10.0049865
+        ]
+      },
+      "id": "node/9018843516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849017",
+        "branch": "Los Molinos",
+        "brand": "Payless ShoeSource",
+        "brand:wikidata": "Q7156755",
+        "brand:wikipedia": "en:Payless (footwear retailer)",
+        "name": "Súper Tienda Payless",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.211869,
+          10.0047072
+        ]
+      },
+      "id": "node/9018849017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849019",
+        "name": "Donald's Alajuela",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.211871,
+          10.0050486
+        ]
+      },
+      "id": "node/9018849019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849060",
+        "branch": "Alajuela",
+        "name": "Insomnio",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2116123,
+          10.0035859
+        ]
+      },
+      "id": "node/9018849060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849072",
+        "name": "Bansbach Alajuela",
+        "shop": "musical_instrument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2116508,
+          10.0041736
+        ]
+      },
+      "id": "node/9018849072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849073",
+        "brand": "Van Heusen",
+        "brand:wikidata": "Q67551865",
+        "brand:wikipedia": "en:Van Heusen",
+        "clothes": "men",
+        "name": "Van Heusen",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2115333,
+          10.0041734
+        ]
+      },
+      "id": "node/9018849073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849074",
+        "branch": "Alajuela",
+        "name": "Aliss",
+        "shop": "houseware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.212239,
+          10.0032523
+        ]
+      },
+      "id": "node/9018849074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849077",
+        "branch": "Alajuela",
+        "name": "Videojuegos Coqui",
+        "shop": "video_games"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2118983,
+          10.0044436
+        ]
+      },
+      "id": "node/9018849077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849078",
+        "name": "RYH Alajuela",
+        "shop": "computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2120642,
+          10.0050397
+        ]
+      },
+      "id": "node/9018849078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849079",
+        "branch": "Alajuela 2",
+        "brand": "Miniso",
+        "brand:wikidata": "Q20732498",
+        "brand:wikipedia": "en:Miniso",
+        "name": "Miniso",
+        "shop": "variety_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2115114,
+          10.0044064
+        ]
+      },
+      "id": "node/9018849079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849080",
+        "branch": "Alajuela 1",
+        "brand": "Miniso",
+        "brand:wikidata": "Q20732498",
+        "brand:wikipedia": "en:Miniso",
+        "name": "Miniso",
+        "shop": "variety_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2116467,
+          10.0040956
+        ]
+      },
+      "id": "node/9018849080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849081",
+        "branch": "Alajuela",
+        "name": "Librería Internacional",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2111445,
+          10.0047849
+        ]
+      },
+      "id": "node/9018849081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849082",
+        "branch": "Alajuela",
+        "brand": "Pandora",
+        "brand:wikidata": "Q2241604",
+        "brand:wikipedia": "en:Pandora (jewelry)",
+        "name": "Pandora",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2119979,
+          10.0051869
+        ]
+      },
+      "id": "node/9018849082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849083",
+        "branch": "Los Molinos",
+        "brand": "Apple Store",
+        "brand:wikidata": "Q421253",
+        "brand:wikipedia": "en:Apple Store",
+        "name": "iCon",
+        "shop": "electronics",
+        "short_name": "Apple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2118249,
+          10.0051115
+        ]
+      },
+      "id": "node/9018849083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849084",
+        "branch": "Alajuela",
+        "brand": "Tommy Hilfiger",
+        "brand:wikidata": "Q634881",
+        "brand:wikipedia": "en:Tommy Hilfiger (company)",
+        "name": "Tommy Hilfiger",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2113515,
+          10.0050079
+        ]
+      },
+      "id": "node/9018849084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849086",
+        "name": "Fusión Alajuela",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2122613,
+          10.0038568
+        ]
+      },
+      "id": "node/9018849086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849087",
+        "branch": "Los Molinos",
+        "brand": "Le Coq Sportif",
+        "brand:wikidata": "Q1066156",
+        "brand:wikipedia": "en:Le Coq Sportif",
+        "clothes": "sports",
+        "name": "Le Coq Sportif",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2122605,
+          10.0039296
+        ]
+      },
+      "id": "node/9018849087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849088",
+        "brand": "Pierre Cardin",
+        "brand:wikidata": "Q22921009",
+        "name": "Pierre Cardin",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2114279,
+          10.0049938
+        ]
+      },
+      "id": "node/9018849088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849091",
+        "shop": "party"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2114682,
+          10.0054382
+        ]
+      },
+      "id": "node/9018849091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018849096",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2114852,
+          10.0045168
+        ]
+      },
+      "id": "node/9018849096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9051972744",
+        "name": "Outlet Toys",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2127655,
+          10.0064442
+        ]
+      },
+      "id": "node/9051972744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9051972745",
+        "name": "Outlet Fusión",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.213047,
+          10.0069865
+        ]
+      },
+      "id": "node/9051972745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9318933396",
+        "brand": "Claro",
+        "brand:wikidata": "Q1770208",
+        "brand:wikipedia": "en:Claro (company)",
+        "name": "Claro",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2073788,
+          10.0126599
+        ]
+      },
+      "id": "node/9318933396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9432399046",
+        "branch": "Alajuela",
+        "name": "Simán",
+        "shop": "houseware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2110176,
+          10.0053496
+        ]
+      },
+      "id": "node/9432399046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9604494186",
+        "name": "Imprímelo",
+        "shop": "copyshop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2226636,
+          9.9957845
+        ]
+      },
+      "id": "node/9604494186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9604494188",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2226854,
+          9.9958245
+        ]
+      },
+      "id": "node/9604494188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9666588799",
+        "name": "Importadora y Distribuidora Fauca",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2144469,
+          10.0146147
+        ]
+      },
+      "id": "node/9666588799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9666591023",
+        "name": "Siglo 21",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2159199,
+          10.0154082
+        ]
+      },
+      "id": "node/9666591023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9667310848",
+        "name": "Queso, Natilla y Huevos",
+        "shop": "dairy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1713077,
+          10.0115677
+        ]
+      },
+      "id": "node/9667310848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9680861959",
+        "addr:city": "San Pedro",
+        "addr:street": "Carretera Marta Soto Jiménez",
+        "name": "Ferretería Don Pedro",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1699665,
+          10.0299231
+        ]
+      },
+      "id": "node/9680861959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711371634",
+        "addr:city": "San Pedro",
+        "addr:street": "Carretera Marta Soto Jiménez",
+        "name": "La Canasta Familiar",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1706633,
+          10.0298638
+        ]
+      },
+      "id": "node/9711371634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9712009107",
+        "branch": "Los Molinos",
+        "name": "Best Brands",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.211754,
+          10.0056131
+        ]
+      },
+      "id": "node/9712009107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866377895",
+        "addr:city": "San José",
+        "addr:housenumber": "25m sur del Super Mirasol",
+        "addr:street": "Calle 2",
+        "name": "Royal Canin Alajuela",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+506 88489702",
+        "shop": "convenience",
+        "website": "https://www.royalcanincr.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2494419,
+          10.0151105
+        ]
+      },
+      "id": "node/9866377895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866443110",
+        "addr:city": "San José",
+        "addr:housenumber": "25m sur del Super Mirasol",
+        "addr:street": "Calle 2",
+        "beauty": "cosmetics;supplies",
+        "name": "Guapixima - Costa Rica",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "beauty",
+        "website": "https://www.guapiximacr.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2494194,
+          10.0150317
+        ]
+      },
+      "id": "node/9866443110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900659507",
+        "shop": "outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2084814,
+          10.0128261
+        ]
+      },
+      "id": "node/9900659507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9921884894",
+        "branch": "Central Corazón de Jesús",
+        "brand": "Musmanni",
+        "brand:wikidata": "Q19382082",
+        "name": "Musmanni",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2180055,
+          10.016462
+        ]
+      },
+      "id": "node/9921884894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9941460464",
+        "branch": "Aeropuerto Alajuela",
+        "name": "Giacomin",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2018319,
+          9.9989535
+        ]
+      },
+      "id": "node/9941460464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10208813139",
+        "branch": "Los Molinos",
+        "name": "Extreme Tech",
+        "shop": "computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.211674,
+          10.0052453
+        ]
+      },
+      "id": "node/10208813139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10274860473",
+        "branch": "Los Molinos",
+        "name": "Súper Salón",
+        "shop": "cosmetics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2114986,
+          10.0044716
+        ]
+      },
+      "id": "node/10274860473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10274889070",
+        "branch": "La Tropicana",
+        "name": "Súper Salón",
+        "shop": "cosmetics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2074709,
+          10.0126383
+        ]
+      },
+      "id": "node/10274889070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10296353882",
+        "branch": "Alajuela",
+        "name": "Giacomin",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2119028,
+          10.003548
+        ]
+      },
+      "id": "node/10296353882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10563793362",
+        "addr:city": "Alajuela",
+        "drive_through": "no",
+        "name": "Licorera San Pablo",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "operator": "Lico San Pablo",
+        "phone": "+506 70769410",
+        "shop": "alcohol",
+        "website": "https://licosanpablo.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2181395,
+          10.0147799
+        ]
+      },
+      "id": "node/10563793362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10563793364",
+        "addr:city": "Alajuela",
+        "name": "Carolyn Store CR",
+        "phone": "+506 83385259",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2180629,
+          10.0146212
+        ]
+      },
+      "id": "node/10563793364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10638469330",
+        "name": "Repuestos Chavarría",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2159431,
+          10.0173841
+        ]
+      },
+      "id": "node/10638469330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10638492585",
+        "name": "Repuestos El Nazareno",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2164367,
+          10.0139034
+        ]
+      },
+      "id": "node/10638492585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10695490055",
+        "name": "Maes",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2059307,
+          10.012865
+        ]
+      },
+      "id": "node/10695490055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10695951053",
+        "name": "Tienda Roku",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2117914,
+          10.0034361
+        ]
+      },
+      "id": "node/10695951053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10695951054",
+        "branch": "Alajuela",
+        "name": "Hummer",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2121447,
+          10.0044287
+        ]
+      },
+      "id": "node/10695951054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10695951062",
+        "shop": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.212464,
+          10.0067072
+        ]
+      },
+      "id": "node/10695951062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10727127610",
+        "branch": "Alajuela",
+        "name": "La Pegona",
+        "shop": "e-cigarette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2116827,
+          10.005398
+        ]
+      },
+      "id": "node/10727127610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10731951731",
+        "branch": "Los Molinos",
+        "name": "Surf y Patinaje Mango",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2113828,
+          10.0049981
+        ]
+      },
+      "id": "node/10731951731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10731951732",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.207745,
+          10.0125787
+        ]
+      },
+      "id": "node/10731951732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10763057375",
+        "clothes": "underwear",
+        "name": "Punto Rojo",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2112334,
+          10.0045345
+        ]
+      },
+      "id": "node/10763057375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10763057376",
+        "branch": "Alajuela",
+        "name": "Mercado Ancyfer",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2111843,
+          10.0047034
+        ]
+      },
+      "id": "node/10763057376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10770009033",
+        "name": "Nova Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2116553,
+          10.0036992
+        ]
+      },
+      "id": "node/10770009033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10770009034",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2112457,
+          10.0043877
+        ]
+      },
+      "id": "node/10770009034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10770009039",
+        "branch": "Alajuela",
+        "name": "Nuevo Mundo",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2116138,
+          10.0038548
+        ]
+      },
+      "id": "node/10770009039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10770009040",
+        "brand": "Converse",
+        "brand:wikidata": "Q319515",
+        "name": "Converse",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2113728,
+          10.0049492
+        ]
+      },
+      "id": "node/10770009040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10770009041",
+        "branch": "Alajuela",
+        "name": "Ciudad Gótica",
+        "shop": "collector"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2116109,
+          10.0037254
+        ]
+      },
+      "id": "node/10770009041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10786433080",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2142055,
+          10.015681
+        ]
+      },
+      "id": "node/10786433080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10804845852",
+        "name": "Súper Sán Andrés",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2221671,
+          10.0212158
+        ]
+      },
+      "id": "node/10804845852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10804868026",
+        "name": "Ciclo Morales",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2239137,
+          10.0218994
+        ]
+      },
+      "id": "node/10804868026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10804913369",
+        "name": "Súper KyM",
+        "shop": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2127242,
+          10.0210202
+        ]
+      },
+      "id": "node/10804913369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10828709337",
+        "branch": "Alajuela",
+        "name": "The Face Shop",
+        "shop": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2121199,
+          10.0050082
+        ]
+      },
+      "id": "node/10828709337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10836256378",
+        "shop": "tailor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2110864,
+          10.012187
+        ]
+      },
+      "id": "node/10836256378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10888908585",
+        "brand": "Adidas",
+        "brand:wikidata": "Q3895",
+        "name": "Adidas",
+        "shop": "sports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2116877,
+          10.0037085
+        ]
+      },
+      "id": "node/10888908585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10941239973",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2076376,
+          10.0215994
+        ]
+      },
+      "id": "node/10941239973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10941239976",
+        "name": "Zebra",
+        "shop": "collector"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2119364,
+          10.004083
+        ]
+      },
+      "id": "node/10941239976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10941239977",
+        "branch": "Alajuela 1",
+        "name": "Panda",
+        "shop": "collector"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2121412,
+          10.0042516
+        ]
+      },
+      "id": "node/10941239977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10941239978",
+        "branch": "Alajuela 2",
+        "name": "Panda",
+        "shop": "collector"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2112929,
+          10.0053808
+        ]
+      },
+      "id": "node/10941239978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10941239979",
+        "branch": "Alajuela",
+        "name": "Extremos",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.211733,
+          10.004087
+        ]
+      },
+      "id": "node/10941239979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10964580584",
+        "branch": "Los Molinos",
+        "brand": "RadioShack",
+        "brand:wikidata": "Q1195490",
+        "name": "RadioShack",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2122601,
+          10.0039916
+        ]
+      },
+      "id": "node/10964580584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10970062560",
+        "branch": "Alajuela",
+        "name": "Oakley",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.206114,
+          10.0119163
+        ]
+      },
+      "id": "node/10970062560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11090521108",
+        "female": "yes",
+        "male": "yes",
+        "name": "Murdock's Barber Shop",
+        "phone": "61922495",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2180446,
+          10.007101
+        ]
+      },
+      "id": "node/11090521108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11147427998",
+        "branch": "Alajuela",
+        "name": "New Era",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2121335,
+          10.0049676
+        ]
+      },
+      "id": "node/11147427998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11176547462",
+        "branch": "Alajuela",
+        "brand": "The North Face",
+        "brand:wikidata": "Q152784",
+        "clothes": "outdoor",
+        "name": "The North Face",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2116138,
+          10.0038083
+        ]
+      },
+      "id": "node/11176547462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11180305749",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2060191,
+          10.002294
+        ]
+      },
+      "id": "node/11180305749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11180305751",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2062155,
+          10.0024135
+        ]
+      },
+      "id": "node/11180305751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11180305752",
+        "shop": "money_lender"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2061571,
+          10.0023839
+        ]
+      },
+      "id": "node/11180305752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11180315468",
+        "branch": "Alajuela",
+        "name": "Jirón",
+        "shop": "bed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2077282,
+          10.003056
+        ]
+      },
+      "id": "node/11180315468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11230163537",
+        "contact:facebook": "opticasVITRAcr",
+        "name": "Ópticas Vitra",
+        "shop": "optician",
+        "website": "https://opticasvitra.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2132191,
+          10.0159937
+        ]
+      },
+      "id": "node/11230163537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11356583238",
+        "name": "Minisuper El Puente",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:sinpe_movil": "yes",
+        "phone": "63938457",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2422882,
+          10.0404039
+        ]
+      },
+      "id": "node/11356583238"
+    }
+  ]
+}
