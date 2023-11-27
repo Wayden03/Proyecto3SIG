@@ -1,0 +1,307 @@
+Map {
+  background-color: #b8dee6;
+}
+
+#countries {
+  ::outline {
+    line-color: #85c5d3;
+    line-width: 2;
+    line-join: round;
+  }
+  polygon-fill: #fff;
+}
+
+#geoalajuela {
+  marker-width: 8; /* Ancho del marcador */
+  marker-fill: #FF6600; /* Color de relleno del marcador */
+  marker-line-color: #FFFFFF; /* Color del borde del marcador */
+  marker-line-width: 2; /* Ancho del borde del marcador */
+  marker-line-opacity: 1; /* Opacidad del borde del marcador */
+  marker-opacity: 1; /* Opacidad del marcador */
+  marker-placement: point; /* Ubicación de los marcadores: punto */
+  marker-type: ellipse; /* Tipo de marcador: elipse */
+}
+
+#aspectocolor{
+  raster-opacity: 1;
+}
+
+#pendiente{
+  raster-opacity: 1;
+}
+
+#elevationshaderes{
+  raster-opacity: 1;
+}
+
+#altitudcolor{
+  raster-opacity: 1;
+}
+
+#plazas{
+  marker-width: 8; /* Ancho del marcador */
+  marker-fill: #FF6600; /* Color de relleno del marcador */
+  marker-line-color: #FFFFFF; /* Color del borde del marcador */
+  marker-line-width: 2; /* Ancho del borde del marcador */
+  marker-line-opacity: 1; /* Opacidad del borde del marcador */
+  marker-opacity: 1; /* Opacidad del marcador */
+  marker-placement: point; /* Ubicación de los marcadores: punto */
+  marker-type: ellipse; /* Tipo de marcador: elipse */
+}
+
+#farmacias{
+  marker-width: 8; /* Ancho del marcador */
+  marker-fill: #FF6600; /* Color de relleno del marcador */
+  marker-line-color: #FFFFFF; /* Color del borde del marcador */
+  marker-line-width: 2; /* Ancho del borde del marcador */
+  marker-line-opacity: 1; /* Opacidad del borde del marcador */
+  marker-opacity: 1; /* Opacidad del marcador */
+  marker-placement: point; /* Ubicación de los marcadores: punto */
+  marker-type: ellipse; /* Tipo de marcador: elipse */
+}
+
+#comercios {
+  marker-width:6;
+  marker-fill:#f45;
+  marker-line-color:#813;
+  marker-allow-overlap:true;
+}
+
+#rios {
+  line-width:1;
+  line-color:#0918eb;
+}
+
+#rios[zoom >= 13] {
+  text-name: [Name]; /* Campo del conjunto de datos con nombres de ríos */
+  text-face-name: 'DejaVu Sans Book'; /* Tipo de fuente */
+  text-size: 12; /* Tamaño del texto */
+  text-fill: #000; /* Color del texto */
+  text-halo-fill: #fff; /* Color del halo del texto */
+  text-halo-radius: 1; /* Radio del halo del texto */
+  text-opacity: 1; /* Mostrar etiquetas a partir de zoom 8 */
+}
+
+
+#carreteras2 {
+  line-color:#594;
+  line-width:0.5;
+  polygon-opacity:1;
+  polygon-fill:#ae8;
+}
+
+#carreteras2[zoom >= 13] {
+  text-name: [Name]; /* Campo del conjunto de datos con nombres de carreteras */
+  text-face-name: 'DejaVu Sans Book'; /* Tipo de fuente */
+  text-size: 10; /* Tamaño del texto */
+  text-fill: #000; /* Color del texto */
+  text-halo-fill: #fff; /* Color del halo del texto */
+  text-halo-radius: 1; /* Radio del halo del texto */
+  text-opacity: 1; /* Mostrar etiquetas a partir de zoom 10 */
+}
+
+#clinicas {
+  [zoom >= 11] {
+    marker-width: 6;
+    marker-fill: #f4419e; /* Color para las clínicas */
+    marker-line-color: #c1176f; /* Color del borde para las clínicas */
+    marker-allow-overlap: true;
+  }
+  [zoom < 11] {
+    marker-opacity: 0; /* Ocultar las clínicas a zoom menor a 20 */
+  }
+}
+
+#gasolineras {
+  [zoom >= 11] {
+    marker-width: 6;
+    marker-fill: #f4b942; /* Color para las gasolineras */
+    marker-line-color: #c17f17; /* Color del borde para las gasolineras */
+    marker-allow-overlap: true;
+  }
+  [zoom < 11] {
+    marker-opacity: 0; /* Ocultar las gasolineras a zoom menor a 20 */
+  }
+}
+
+#iglesias {
+  [zoom >= 11] {
+    marker-width: 6;
+    marker-fill: #42f45c; /* Color para las iglesias */
+    marker-line-color: #17c17f; /* Color del borde para las iglesias */
+    marker-allow-overlap: true;
+  }
+  [zoom < 11] {
+    marker-opacity: 0; /* Ocultar las iglesias a zoom menor a 20 */
+  }
+}
+
+#plazas {
+  [zoom >= 11] {
+    marker-width: 6;
+    marker-fill: #4271f4; /* Color para las plazas */
+    marker-line-color: #1747c1; /* Color del borde para las plazas */
+    marker-allow-overlap: true;
+  }
+  [zoom < 11] {
+    marker-opacity: 0; /* Ocultar las plazas a zoom menor a 20 */
+  }
+}
+
+#bancos {
+  [zoom >= 11] {
+    marker-width: 6;
+    marker-fill: #f44242; /* Color para los bancos */
+    marker-line-color: #c11717; /* Color del borde para los bancos */
+    marker-allow-overlap: true;
+  }
+  [zoom < 11] {
+    marker-opacity: 0; /* Ocultar los bancos a zoom menor a 20 */
+  }
+}
+
+
+
+#escuelas {
+  [zoom >= 11] {
+    marker-width: 6;
+    marker-fill: #5cb85c; /* Verde */
+    marker-line-color: #336633; /* Verde oscuro */
+    marker-allow-overlap: true;
+  }
+  [zoom < 11] {
+    marker-opacity: 0; /* Ocultar las escuelas a niveles de zoom menor a 16 */
+  }
+}
+
+#hospitales {
+  [zoom >= 11] {
+    marker-width: 6;
+    marker-fill: #d9534f; /* Rojo */
+    marker-line-color: #993333; /* Rojo oscuro */
+    marker-allow-overlap: true;
+  }
+  [zoom < 11] {
+    marker-opacity: 0; /* Ocultar los hospitales a niveles de zoom menor a 16 */
+  }
+}
+
+#hoteles {
+  [zoom >= 11] {
+    marker-width: 6;
+    marker-fill: #5bc0de; /* Azul */
+    marker-line-color: #337799; /* Azul oscuro */
+    marker-allow-overlap: true;
+  }
+  [zoom < 11] {
+    marker-opacity: 0; /* Ocultar los hoteles a niveles de zoom menor a 16 */
+  }
+}
+
+
+#parques {
+  marker-width:6;
+  marker-fill:#f45;
+  marker-line-color:#813;
+  marker-allow-overlap:true;
+}
+
+
+#zonasverdes {
+  line-color:#594;
+  line-width:0.5;
+  polygon-opacity:1;
+  polygon-fill:#ae8;
+}
+
+
+#geoprovincias {
+  line-color: #3309eb;
+  line-width: 0.5;
+  polygon-opacity: 1;
+  polygon-fill: rgba(174, 238, 170, 0.5); /* Color del relleno con transparencia */
+  text-name: [NPROVINCIA]; /* Nombre del campo para etiquetar */
+  text-face-name: 'DejaVu Sans Book'; /* Ejemplo de una fuente genérica */
+  text-size: 8; /* Tamaño del texto */
+  text-fill: #333; /* Color del texto */
+  text-allow-overlap: true; /* Permitir solapamiento de texto */
+}
+
+
+#geocantones {
+  line-color: #329ba8;
+  line-width: 0.5;
+  polygon-opacity: 1;
+  polygon-fill: rgba(174, 238, 170, 0.5); /* Color del relleno con transparencia */
+}
+
+#geocantones[zoom >= 11] {
+  text-name: [NCANTON]; /* Campo del conjunto de datos con nombres de cantones */
+  text-face-name: 'DejaVu Sans Book'; /* Tipo de fuente */
+  text-size: 8; /* Tamaño del texto */
+  text-fill: #333; /* Color del texto */
+  text-allow-overlap: true; /* Permitir solapamiento de texto */
+  text-opacity: 1; /* Mostrar etiquetas a partir de zoom 8 */
+}
+
+#geocantones[zoom >= 11] {
+  text-name: [NCANTON]; /* Campo del conjunto de datos con nombres de cantones */
+  text-face-name: 'DejaVu Sans Book'; /* Tipo de fuente */
+  text-opacity: 0; /* Ocultar etiquetas a zoom menor a 12 */
+}
+
+
+
+#geodistritos {
+  line-color: #e309eb;
+  line-width: 0.5;
+  polygon-opacity: 1;
+  polygon-fill: rgba(174, 238, 170, 0.5); /* Color del relleno con transparencia */
+}
+
+#geodistritos[zoom >= 11] {
+  text-name: [NDISTRITO]; /* Campo del conjunto de datos con nombres de distritos */
+  text-face-name: 'DejaVu Sans Book'; /* Tipo de fuente */
+  text-size: 8; /* Tamaño del texto */
+  text-fill: rgba(51, 51, 51, 0.7); /* Color del texto con transparencia */
+  text-allow-overlap: true; /* Permitir solapamiento de texto */
+  text-opacity: 1; /* Mostrar etiquetas a partir de zoom 12 */
+}
+
+#geodistritos[zoom < 11] {
+  text-name: [NDISTRITO];
+  text-face-name: 'DejaVu Sans Book';
+  text-opacity: 0; /* Ocultar etiquetas a zoom menor a 12 */
+}
+
+#comercios {
+  [zoom >= 11] {
+    marker-width: 6; /* Ancho del marcador */
+    marker-fill: #f45; /* Color del marcador */
+    marker-line-color: #813; /* Color del borde del marcador */
+    marker-allow-overlap: true; /* Permitir solapamiento de marcadores */
+  }
+  
+  [zoom >= 11] {
+    /* Mostrar el nombre de los comercios */
+    text-name: [Name]; /* Nombre del campo que contiene los nombres de los comercios */
+    text-face-name: 'DejaVu Sans Book'; /* Tipo de fuente */
+    text-size: 8; /* Tamaño del texto */
+    text-fill: #000; /* Color del texto */
+    text-opacity: 1; /* Opacidad del texto */
+  }
+  
+  [zoom < 11] {
+    text-name: [Name]; /* Nombre del campo que contiene los nombres de los comercios */
+    text-face-name: 'DejaVu Sans Book';
+    /* Ocultar los nombres de los comercios a zoom menor a 20 */
+    text-opacity: 0;
+  }
+  
+  [zoom < 11] {
+    text-name: [Name]; /* Nombre del campo que contiene los nombres de los comercios */
+    text-face-name: 'DejaVu Sans Book';
+    /* Ocultar los marcadores a zoom menor a 16 */
+    marker-opacity: 0;
+  }
+}
